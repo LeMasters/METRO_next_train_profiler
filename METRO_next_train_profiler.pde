@@ -1,3 +1,7 @@
+// METRO Train Station Profiler
+// Garrison LeMasters
+// Feb 2013
+
 PFont font;
 String[] metroStationName;
 int[] metroStationID;

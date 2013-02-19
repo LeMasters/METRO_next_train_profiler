@@ -1,9 +1,9 @@
 void makeKey() {
-  fill(#FFD700); //yeller
-  ellipse(611,495,12,12);
+  fill(#FFD700); //yellow
+  ellipse(611,544,12,12);
   fill(#FF1111); //red
-  ellipse(611,518,12,12);
+  ellipse(611,569,12,12);
   fill(240);
-  text("Train arriving",628,500);
-  text("Train boarding",628,522);
+  text("Train arriving",628,550);
+  text("Train boarding",628,575);
 }
